@@ -1,0 +1,17 @@
+a{
+   color: blue;
+   text-decoration: none
+};
+
+a:hover{
+    color: rgb(48, 48, 236);
+}
+
+a:visited{
+    color: blue;
+    text-decoration: none;
+};
+
+#main-content{
+    background-color: rgb(32, 142, 205);
+}
